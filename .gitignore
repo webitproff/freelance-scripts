@@ -1,0 +1,24 @@
+# Files which should be ignored by Git
+/datas/config.php
+/datas/urltrans.dat
+/datas/avatars/*
+!/datas/avatars/index.html
+/datas/cache/*
+!/datas/cache/.htaccess
+!/datas/cache/index.html
+/datas/exflds/*
+!/datas/exflds/index.html
+/datas/photos/*
+!/datas/photos/index.html
+/datas/thumbs/*
+!/datas/thumbs/index.html
+/datas/users/*
+!/datas/users/index.html
+.DS_Store
+.htaccess
+.tags
+.tags_sorted_by_file
+*.sublime*
+.idea
+nbproject
+Thumbs.db
