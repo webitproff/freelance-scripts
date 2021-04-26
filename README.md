@@ -1,6 +1,12 @@
 # Стартовая сборка фриланс-биржи на Cotonti CMF #
 Freelance script ⭐ Сборка для создания сайта фриланс биржи, торговой площадки продажи услуг и товаров на Cotonti 
 ## cot_freelance_2.7.1_START_10-January-2021 ##
+_____
+# <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong>
+- Email: webitproff@gmail.com
+- <a href="https://t.me/webitproff" target="_blank"  title="написать в TELEGRAM"><strong>написать в TELEGRAM</strong></a> @webitproff
+- <a href="https://abuyfile.com/market/Cotonti/gotovye-sborki-na-cotonti" target="_blank" title="маркетплейс, фриланс-биржа, биржа услуг, готовое решение, демонстрация, купить"><strong>Готовые решения сайтов</strong></a>
+_____
 <h1>Подробнее</h1>
 <p><a href="http://freelance-script.abuyfile.com/category/plugins/" target="_blank" rel="noopener noreferrer">Плагины для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
 <p><a href="http://freelance-script.abuyfile.com/category/modules/" target="_blank" rel="noopener noreferrer">Модули для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
