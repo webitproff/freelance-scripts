@@ -162,3 +162,7 @@ Cotonti Siena is free software; you can redistribute it and/or modify it under t
 
 [BSD 3-clause License](https://github.com/Cotonti/Cotonti/blob/master/License.txt) 
 
+## ChangeLog Изменения
+* 07.05.2021 
+Mavatars + Mavatarslance 
+удаленны из сборки, - устаревшая библиотека, с признаками уязвимости, - ругается GitHub
