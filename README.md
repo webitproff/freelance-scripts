@@ -1,18 +1,21 @@
 # Стартовая сборка фриланс-биржи на Cotonti CMF #
 # ⭐ Freelance MarketPlace script ⭐ by webitproff #
-Сборка для создания сайта фриланс биржи, торговой площадки продажи услуг и товаров на Cotonti  
+Сборка (стартовая) для создания сайта фриланс биржи, торговой площадки продажи услуг и товаров на Cotonti  
 ## cot_freelance_2.7.1_START_29-May-2021 ##
 _____
+# Демонстрация <a href="http://masterscity.abuyfile.com/" target="_blank" title="Freelance MarketPlace - демонстрация готового сайта фриланс биржи"><strong>готового сайта, который можно купить и запустить у себя за 15 минут</strong></a> #
+_____
+
 # <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong>#
 - Email: webitproff@gmail.com
 - <a href="https://t.me/webitproff" target="_blank"  title="написать в TELEGRAM"><strong>написать в TELEGRAM</strong></a> @webitproff
 - <a href="https://abuyfile.com/market/Cotonti/gotovye-sborki-na-cotonti" target="_blank" title="маркетплейс, фриланс-биржа, биржа услуг, готовое решение, демонстрация, купить"><strong>Готовые решения сайтов</strong></a>
 _____
 <h1>Подробнее</h1>
-<p><a href="http://freelance-script.abuyfile.com/category/plugins/" target="_blank" rel="noopener noreferrer">Плагины для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
-<p><a href="http://freelance-script.abuyfile.com/category/modules/" target="_blank" rel="noopener noreferrer">Модули для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
-<p><a href="http://freelance-script.abuyfile.com/category/templates/" target="_blank" rel="noopener noreferrer">Шаблоны для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
-<p><a href="http://freelance-script.abuyfile.com/category/builds-freelance-script/" target="_blank" rel="noopener noreferrer">готовые сайты на «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
+<p><a href="http://freelance-script.abuyfile.com/category/plugins/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Плагины для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
+<p><a href="http://freelance-script.abuyfile.com/category/modules/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Модули для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
+<p><a href="http://freelance-script.abuyfile.com/category/templates/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Шаблоны для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
+<p><a href="http://freelance-script.abuyfile.com/category/builds-freelance-script/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">готовые сайты на «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
 
 ##Фриланс-биржа на Cotonti Siena##
 
@@ -80,5 +83,6 @@ PRO-аккаунт (цена за месяц). PRO-аккаунт дает во�
 
 UPD: В версии 2.7.0 чтобы правильно работала структруа с подкатегориями нужно в файле datas/config.php установить опцию $cfg['customfuncs'] = true;    
 Эта опция подключает к Cotonti дополнительную библиотеку функций, которые находятся в файле system/functions.custom.php. Если у вас уже подключен этот файл, то нужно добавить в него ваши дополнительные функции, которые были в нем прописаны.
- </blockquote>
-##<a href="http://freelance-script.abuyfile.com/" target="_blank" rel="noopener noreferrer">Сайт документации по сборке фриланс-маркеплейса на движке Cotonti Siena</a>##
+</blockquote>
+_____
+<a href="http://freelance-script.abuyfile.com/" target="_blank" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena">Сайт документации по сборке фриланс-маркеплейса на движке Cotonti Siena</a>
