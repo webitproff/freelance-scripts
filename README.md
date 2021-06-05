@@ -27,17 +27,15 @@ MySQL: 5.5-5.7 с расширениями pdo_mysql, mysqli
 Права на ПАПКИ 777 или 755 в зависимости от вашего хостинга. (на beget-хостинг не паримся, - все работает по умолчанию)
 Права на ФАЙЛЫ 666 или 644 зависимости от вашего хостинга. (на beget-хостинг не паримся, - все работает по умолчанию)
 <h1>#SUPPORT</h1>
-*документация http://freelance-script.abuyfile.com/
-*видообзоры https://www.youtube.com/playlist?list=PLLJqscgzN-F4PmZnbYDsXUYfbT4rxC9Dz
-*персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам:
-*Email: webitproff@gmail.com
-*телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a>
-*<a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы
+# <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong>#
+* документация http://freelance-script.abuyfile.com/
+* видообзоры https://www.youtube.com/playlist?list=PLLJqscgzN-F4PmZnbYDsXUYfbT4rxC9Dz
+* персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам:
+* Email: webitproff@gmail.com
+* телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a>
+* <a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы
 
 # <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong>#
-- Email: webitproff@gmail.com
-- <a href="https://t.me/webitproff" target="_blank"  title="написать в TELEGRAM"><strong>написать в TELEGRAM</strong></a> @webitproff
-- <a href="https://abuyfile.com/market/Cotonti/gotovye-sborki-na-cotonti" target="_blank" title="маркетплейс, фриланс-биржа, биржа услуг, готовое решение, демонстрация, купить"><strong>Готовые решения сайтов</strong></a>
 _____
 <h1>Подробнее</h1>
 <p><a href="http://freelance-script.abuyfile.com/category/plugins/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Плагины для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
