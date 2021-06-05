@@ -9,7 +9,7 @@ _____
 просто берите <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">beget-хостинг</a> (для России и Украины просто отличный вариант)
 Тариф "Старт" - оптимально и даже очень не дорого
 по ссылке <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">https://beget.com/order/start?id=1479352</a>
-или клик по картинке</h4>
+или клик по картинке</h4><br>
 <a href="https://beget.com/p1479352/order/start" target="_blank" rel="nofollow noopener"><img src="https://cp.beget.com/promo_data/static/static468x60_3.png" alt="static468x60_3.png" border="0" /></a>
 
 к тому же, тестирование на месяц бесплатно + сервисный домен
