@@ -27,10 +27,10 @@ MySQL: 5.5-5.7 с расширениями pdo_mysql, mysqli<br>
 Права на ПАПКИ 777 или 755 в зависимости от вашего хостинга. (на beget-хостинг не паримся, - все работает по умолчанию)
 Права на ФАЙЛЫ 666 или 644 зависимости от вашего хостинга. (на beget-хостинг не паримся, - все работает по умолчанию)
 <h1>#SUPPORT</h1>
-# <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong> #
+# <strong>Помощь в установке сборки биржи услуг на Cotonti Siena:</strong> #
 * документация http://freelance-script.abuyfile.com/<br>
 * видообзоры https://www.youtube.com/playlist?list=PLLJqscgzN-F4PmZnbYDsXUYfbT4rxC9Dz<br>
-* персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам: <br>
+* <h3><a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам: </a></h3> <br>
 * Email: webitproff@gmail.com <br>
 * телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a> <br>
 * <a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы <br>
