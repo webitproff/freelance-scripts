@@ -5,6 +5,36 @@
 _____
 # Демонстрация <a href="http://masterscity.abuyfile.com/" target="_blank" title="Freelance MarketPlace - демонстрация готового сайта фриланс биржи"><strong>готового сайта, который можно купить и запустить у себя за 15 минут</strong></a> #
 _____
+# <h4>Если, у Вас еще нет своего хостинга, то не парьте себе мозг, ноги и пр,
+просто берите <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">beget-хостинг</a> (для России и Украины просто отличный вариант)
+Тариф "Старт" - оптимально и даже очень не дорого
+по ссылке <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">https://beget.com/order/start?id=1479352</a>
+или клик по картинке</h4>
+<a href="https://beget.com/p1479352/order/start" target="_blank" rel="nofollow noopener"><img src="https://cp.beget.com/promo_data/static/static468x60_3.png" alt="static468x60_3.png" border="0" /></a>
+
+к тому же, тестирование на месяц бесплатно + сервисный домен
+
+альтернатива, если вам нужен хостинг в Украине, - https://www.ukraine.com.ua/
+
+Основные требования к хостингу и порядок установки
+
+# Рабочие параметры для сайта
+System Linux Ubuntu Server Edition (может быть другой)
+PHP Version 7.1.33 - (только 7.1)
+WWW Server - Apache/2.4.10 (Unix) - рекомендуется именно Apache
+Рабочие параметры для БД SQL
+MySQL: 5.5-5.7 с расширениями pdo_mysql, mysqli
+на сервере MySQL, версия модуля PHP 7.1 и не выше, если сервер БД работает на PHP
+
+Права на ПАПКИ 777 или 755 в зависимости от вашего хостинга. (на beget-хостинг не паримся, - все работает по умолчанию)
+Права на ФАЙЛЫ 666 или 644 зависимости от вашего хостинга. (на beget-хостинг не паримся, - все работает по умолчанию)
+<h1>#SUPPORT</h1>
+* документация http://freelance-script.abuyfile.com/
+* видообзоры https://www.youtube.com/playlist?list=PLLJqscgzN-F4PmZnbYDsXUYfbT4rxC9Dz
+* персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам:
+- Email: webitproff@gmail.com
+- телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a>
+- <a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы
 
 # <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong>#
 - Email: webitproff@gmail.com
