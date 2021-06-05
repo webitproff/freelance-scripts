@@ -12,10 +12,8 @@ _____
 или клик по картинке</h4><br>
 <a href="https://beget.com/p1479352/order/start" target="_blank" rel="nofollow noopener"><img src="https://cp.beget.com/promo_data/static/static468x60_3.png" alt="static468x60_3.png" border="0" /></a>
 
-к тому же, тестирование на месяц бесплатно + сервисный домен
-
+к тому же, тестирование на месяц бесплатно + сервисный домен - (свой домен прикрепить и протестирвать можно даже на бесплатном тестовом периоде хостинга)
 альтернатива, если вам нужен хостинг в Украине, - https://www.ukraine.com.ua/
-
 Основные требования к хостингу и порядок установки
 
 # Рабочие параметры для сайта
@@ -29,12 +27,12 @@ MySQL: 5.5-5.7 с расширениями pdo_mysql, mysqli
 Права на ПАПКИ 777 или 755 в зависимости от вашего хостинга. (на beget-хостинг не паримся, - все работает по умолчанию)
 Права на ФАЙЛЫ 666 или 644 зависимости от вашего хостинга. (на beget-хостинг не паримся, - все работает по умолчанию)
 <h1>#SUPPORT</h1>
-* документация http://freelance-script.abuyfile.com/
-* видообзоры https://www.youtube.com/playlist?list=PLLJqscgzN-F4PmZnbYDsXUYfbT4rxC9Dz
-* персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам:
-- Email: webitproff@gmail.com
-- телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a>
-- <a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы
+*документация http://freelance-script.abuyfile.com/
+*видообзоры https://www.youtube.com/playlist?list=PLLJqscgzN-F4PmZnbYDsXUYfbT4rxC9Dz
+*персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам:
+*Email: webitproff@gmail.com
+*телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a>
+*<a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы
 
 # <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong>#
 - Email: webitproff@gmail.com
