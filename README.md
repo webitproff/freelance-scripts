@@ -30,10 +30,10 @@ MySQL: 5.5-5.7 с расширениями pdo_mysql, mysqli<br>
 # <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong> #
 * документация http://freelance-script.abuyfile.com/<br>
 * видообзоры https://www.youtube.com/playlist?list=PLLJqscgzN-F4PmZnbYDsXUYfbT4rxC9Dz<br>
-* персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам:
-* Email: webitproff@gmail.com<br>
-* телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a><br>
-* <a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы<br>
+* персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам: <br>
+* Email: webitproff@gmail.com <br>
+* телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a> <br>
+* <a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы <br>
 _____
 <h1>Подробнее</h1>
 <p><a href="http://freelance-script.abuyfile.com/category/plugins/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Плагины для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
