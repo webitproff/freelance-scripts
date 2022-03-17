@@ -13,7 +13,9 @@ _____
 <a href="https://beget.com/p1479352/order/start" target="_blank" rel="nofollow noopener"><img src="https://cp.beget.com/promo_data/static/static468x60_3.png" alt="static468x60_3.png" border="0" /></a>
 
 к тому же, тестирование на месяц бесплатно + сервисный домен - (свой домен прикрепить и протестирвать можно даже на бесплатном тестовом периоде хостинга)
-альтернатива, если вам нужен хостинг в Украине, - https://www.ukraine.com.ua/
+альтернатива.
+# Якщо Вам потрібен <a href="https://www.ukraine.com.ua/?page=526910">Хостинг в Україні</a>
+
 Основные требования к хостингу и порядок установки
 
 # Рабочие параметры для сайта
