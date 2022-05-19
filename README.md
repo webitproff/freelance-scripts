@@ -19,7 +19,7 @@ _____
 
 # Рабочие параметры для сайта
 System Linux Ubuntu Server Edition (может быть другой)<br>
-PHP Version 7.1.33 - (только 7.1)<br>
+PHP Version 7.1.33 - (только 7.1). <strong><a href="http://masterscity.abuyfile.com/" target="_blank" rel="noopener"> на PHP v. 7.4 Freelance Marketplace - Сборка сайта маркетплейса и фриланс услуг 2022 года</a></strong><br>
 WWW Server - Apache/2.4.10 (Unix) - рекомендуется именно Apache<br>
 Рабочие параметры для БД SQL<br>
 MySQL: 5.5-5.7 с расширениями pdo_mysql, mysqli<br>
