@@ -17,8 +17,8 @@ Lock_members=12345A
 [END_COT_EXT]
 
 [BEGIN_COT_EXT_CONFIG]
-fromuserid=01:string::no-reply@webitproff.com:The email from
-touserid=02:string::webitproff@gmail.com:The email to
+fromuserid=01:string::no-reply@example.com:The email from
+touserid=02:string::example@gmail.com:The email to
 fromusername=03:string::NO REPLY:Name of the sender
 messagetitle=04:string::New member [user] has been registered
 message=05:words::Привет Administrator, на сайте [mainurl] зарегистрировался новый пользователь [user] Контактный email [email] указанный пользователем, должен быть действительным, для возможности авторизации и управления своим аккаунтом. Просмотреть профиль нового пользователя - [mainurl]/users/[user] :Write what you want every new member to read. Use [user] for there name and [email] for the email to display
