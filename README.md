@@ -5,8 +5,7 @@
 _____
 # Демонстрация <a href="http://masterscity.abuyfile.com/" target="_blank" title="Freelance MarketPlace - демонстрация готового сайта фриланс биржи"><strong>готового сайта, который можно купить и запустить у себя за 15 минут</strong></a> #
 _____
-# <h4>Если, у Вас еще нет своего хостинга, то не парьте себе мозг, ноги и пр,
-просто берите <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">beget-хостинг</a> (для России и Украины просто отличный вариант)
+# <h4>Если, у Вас еще нет своего хостинга, - рекомендую хостинг без головной боли <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">beget-хостинг</a> 
 Тариф "Старт" - оптимально и даже очень не дорого
 по ссылке <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">https://beget.com/order/start?id=1479352</a>
 или клик по картинке</h4><br>
@@ -42,10 +41,6 @@ _____
 <p><a href="http://freelance-script.abuyfile.com/category/modules/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Модули для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
 <p><a href="http://freelance-script.abuyfile.com/category/templates/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Шаблоны для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
 <p><a href="http://freelance-script.abuyfile.com/category/builds-freelance-script/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">готовые сайты на «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
-
-#Фриланс-биржа на Cotonti Siena
-
-#После успешной установки и авторизации в админке снова пройдите по адресу http://tvoy-domen.com/install.php для Обновления Cotonti с 0.9.19 до 0.9.20, - будет установлен patch_0.9.20.sql
 
 Версия сборки: v3.0.20
 Сборка фриланс-биржи на базе Cotonti Siena. С помощью данной сборки можно организовать любую биржу по поиску исполнителей на различные работы. Функционал биржи предоставляет гибкие возможности для эксплуатации и дальнейшей разработки.
