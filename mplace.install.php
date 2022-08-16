@@ -23,7 +23,7 @@ function cot_install_step2_tags()
 	$t->assign(array(
 		'INSTALL_DB_X' => $db_x,
 		'INSTALL_DB_X_INPUT' => cot_inputbox('text', 'db_x',  $db_x, 'size="32"'),	
-		'INSTALL_DB_NAME_INPUT' => cot_inputbox('text', 'db_name',  is_null($db_name) ? 'starlance' : $db_name, 'size="32"'),
+		'INSTALL_DB_NAME_INPUT' => cot_inputbox('text', 'db_name',  is_null($db_name) ? 'mplace' : $db_name, 'size="32"'),
 	));
 }
 
