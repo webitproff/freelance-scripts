@@ -1,1 +1,0 @@
-DELETE FROM `cot_ls_regions` WHERE `region_name`="Украина";
