@@ -1,0 +1,110 @@
+/* CONTAINER FOR IMAGE
+==================================*/
+[data-snippet=attacher] {
+    /*display: flex;
+margin: 1rem auto;
+justify-content: center;
+text-align:center;*/
+}
+
+/*
+[data-snippet=attacher] img {
+    padding: 0 .5rem;
+    height:auto;
+}
+
+[data-snippet=attacher] a {
+   text-decoration: none;
+}
+
+[data-snippet=attacher] a::after {
+   content:attr(title);
+}*/
+#attModalContent {
+    min-width: 50vw;
+    min-height: 70vh;
+}
+
+.jqmClose {
+    float: right;
+    cursor: pointer;
+}
+
+/* GALLERY
+==================================*/
+[data-att-gallery] {
+    position: relative;
+    padding: .5rem 1rem;
+    box-sizing: border-box;
+    box-shadow: 0 0 1px #c8c8c8;
+    margin: 1rem 0;
+}
+
+[data-att-gallery] .gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+[data-att-gallery] .gallery figure {
+    flex-basis: 33.33333%;
+    padding: .3rem;
+    box-sizing: border-box;
+}
+
+[data-att-gallery] .gallery a {
+    text-decoration: none;
+}
+
+[data-att-gallery] .gallery img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* DISPLAY FILES
+==================================*/
+[data-att-display] table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+[data-att-display] tr {
+    background: #fff;
+}
+
+[data-att-display] tr:nth-child(odd) {
+    background: #f2f2f2;
+}
+
+[data-att-display] td {
+    padding: .7rem;
+    position: relative;
+    border: 0;
+    vertical-align: middle;
+    text-align: center;
+}
+
+[data-att-display] td img {
+    max-width: 100px;
+    height: auto;
+}
+
+[data-att-display] td:first-child {
+    width: 10%;
+}
+
+[data-att-display] td:last-child {
+    width: 50%;
+    text-align: left;
+}
+
+/* DOWNLOAD FILES
+==================================*/
+[data-att-display] table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.att-downloads { border:0; }
+.att-downloads td:first-child {
+    max-width: 70px;
+    padding-right: 10px;
+}
