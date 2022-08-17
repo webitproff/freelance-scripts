@@ -1,8 +1,8 @@
 # Стартовая сборка фриланс-биржи на Cotonti CMF #
 # ⭐ Freelance MarketPlace script ⭐ by webitproff #
-<img src="https://github.com/webitproff/freelance-scripts/blob/master/Freelance%20Marketplace%20-%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%B0%20%D0%B8%20%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%202022%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%BD%D0%B0%20PHP%20v.%207.4.png" alt="Базовая сборка сайта фриланс-биржи на Cotonti Siena" width="" height="">
+<img src="https://github.com/webitproff/freelance-scripts/blob/master/Freelance%20Marketplace%20-%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%B0%20%D0%B8%20%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%202022%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%BD%D0%B0%20PHP%20v.%207.4.png" alt="Базовая сборка сайта фриланс-биржи на Cotonti Siena" width="" height=""><br>
 _____
-## Сборка (стартовая) для создания сайта фриланс биржи, торговой площадки продажи услуг и товаров 
+# Сборка (стартовая) для создания сайта фриланс биржи, торговой площадки продажи услуг и товаров  #
 ## v3.0.20 под PHP v7.4 на Cotonti Siena v0.9.20 от 14.08.2022 года ##
 _____
 # Сборка стартовая с базовым шаблоном, а следовательно интеграция в него плагинов и модулей производится под себя самостоятельно или под заказ #
