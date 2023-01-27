@@ -7,7 +7,7 @@
  * @version 0.9.20
  * @license BSD
  */
- */
+
 
 defined('COT_CODE') or die('Wrong URL');
 
