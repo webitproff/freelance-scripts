@@ -1,0 +1,48 @@
+NuoveXT icon theme
+
+1.6	Updated 09/12/2005
+	Switched back to GPL ;-)
+	Now includes evolution stock icons by john007 (http://www.gnome-look.org/content/show.php?content=29792)
+	Firefox 1.5 theme
+
+1.5	Updated 12/08/2005
+	Volume icon
+	Added over 20 mimetypes (including openoffice, gnumeric)
+	Added eclipse, amule, gnumeric
+	Added gnome-fs-directory-visiting, gtk-open
+	Added a white folder and ipod-photos in extras
+	New gnome-lockscreen icon
+        The project is now under a Creative Commons License.
+
+1.4	Updated 07/08/2005
+	Added Gimp, Inkscape, alternate home, gnome-netstatus
+	Added ipod mini (5 colors) in extras
+	Changed trash-empty, trash-full, ipod, suse, thunderbird
+	Corrected: Over 40 icons was missing in /apps since version 1.2
+
+1.3	Updated 05/08/2005
+	Added over 20 new Mimetypes icons.		
+	Added over 30 new Apps icons (including some distros and kde icons).
+	Added firewire and usb drives.
+	Changed gtk-stop icons.
+	Changed gnome-logout icons.
+	Added extras folder with various icons.
+	 
+1.2	Updated 02/08/2005
+	This is a huge update! There is a lots of changes, here's the highlights:
+	- Project is now hosted by http://pwsp.net/ at http://nuovext.pwsp.net/ Thanks!
+	- Structure of the theme: it is now based on gPerfection.
+	- All new gtk icons.
+	- Redesigned gtk icons (navigation).
+	- New devices icons (added tags to cds and dvds)
+	- New filesystems icons.
+	- All new and redesigned mimetypes icons (also with tags).
+	- All new emblems icons.
+	- Added a few apps icons.
+
+1.1     Updated - added a few icons 18/07/2005
+1.0	First release 17/07/2005
+0.3	Preview release 15/07/2005
+0.2	Preview release 14/07/2005
+0.1	Preview release 12/07/2005
+	
