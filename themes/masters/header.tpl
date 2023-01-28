@@ -108,8 +108,10 @@
 										<li class="nav-item"><a class="nav-link<!-- IF {PHP.env.ext} == 'projects' --> active<!-- ENDIF -->" href="{PHP|cot_url('projects')}">{PHP.L.projects_projects}</a></li>
 										<li class="nav-item"><a class="nav-link<!-- IF {PHP.env.ext} == 'users' AND ({PHP.group} == {PHP.cot_groups.4.alias} OR {PHP.urr.user_maingrp} == 4) --> active<!-- ENDIF -->" href="{PHP.cot_groups.4.alias|cot_url('users', 'group='$this)}">{PHP.cot_groups.4.name}</a></li>
 										<!-- IF {PHP.cot_modules.market} -->
-										<li class="nav-item"><a class="nav-link<!-- IF {PHP.env.ext} == 'market' AND !{PHP.type} --> active<!-- ENDIF -->" href="{PHP|cot_url('market')}">{PHP.L.market}</a></li>
+										<li class="nav-item"><a class="nav-link<!-- IF {PHP.env.ext} == 'market' AND !{PHP.type} --> active<!-- ENDIF -->" href="{PHP|cot_url('market')}">{PHP.L.market_title}</a></li>
 										<!-- ENDIF -->
+										<!-- IF {PHP.cot_modules.services} -->
+										<li class="nav-item"><a class="nav-link<!-- IF {PHP.env.ext} == 'services' AND !{PHP.type} --> active<!-- ENDIF -->" href="{PHP|cot_url('services')}">{PHP.L.services_title}</a></li>
 										<!-- IF {PHP.cot_plugins_active.contact} -->
 										<li class="nav-item"><a class="nav-link<!-- IF {PHP.env.ext} == 'contact' --> active<!-- ENDIF -->" href="{PHP|cot_url('contact')}">{PHP.L.Contact}</a></li>
 										<!-- ENDIF -->
