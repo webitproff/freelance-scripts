@@ -94,7 +94,7 @@
 					<div class="row">
 						<div class="col-lg-4">
 							<div class="logo pull-xs-left">
-								<a href="{PHP|cot_url('index')}" title="{PHP.cfg.maintitle} {PHP.cfg.separator} {PHP.cfg.subtitle}">{PHP.L.FL_logo}</a>
+								<a href="{PHP|cot_url('index')}" title="{PHP.cfg.maintitle} {PHP.cfg.separator} {PHP.cfg.subtitle}">{PHP.cfg.maintitle}</a>
 							</div>							
 							<button class="navbar-toggler hidden-lg-up m-b-2 pull-xs-left" type="button" data-toggle="collapse" data-target="#MainNavbar">
 							    &#9776;
