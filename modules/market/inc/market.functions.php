@@ -434,6 +434,7 @@ function cot_market_import($source = 'POST', $ritem = array(), $auth = array())
 	$ritem['item_keywords'] = cot_import('rkeywords', $source, 'TXT');
 	$ritem['item_metatitle'] = cot_import('rmetatitle', $source, 'TXT');
 	$ritem['item_metadesc'] = cot_import('rmetadesc', $source, 'TXT');
+	$ritem['item_date'] = cot_import_date('rdate', true, false, $source); // строка добавлена для редактирования даты публикации
 	
 	if(empty($ritem['item_date']))
 	{
