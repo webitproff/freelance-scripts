@@ -26,6 +26,10 @@
 				<td>{PRDEDIT_FORM_PARSER}</td>
 			</tr>
 			<tr>
+				<td align="right">{PHP.L.Date}:</td>
+				<td>{PRDEDIT_FORM_DATE}</td>
+			</tr>
+			<tr>
 				<td align="right">{PHP.L.Text}:</td>
 				<td>{PRDEDIT_FORM_TEXT}</td>
 			</tr>
