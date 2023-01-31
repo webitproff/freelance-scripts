@@ -453,6 +453,7 @@ function cot_projects_import($source = 'POST', $ritem = array(), $auth = array()
 	$ritem['item_cost'] = cot_import('rcost', $source, 'NUM');
 	$ritem['item_type'] = cot_import('rtype', $source, 'INT');
 	$ritem['item_parser'] = cot_import('rparser', $source, 'ALP');
+	$ritem['item_date'] = cot_import_date('rdate', true, false, $source); // строка добавлена для редактирования даты публикации
 	
 	if(empty($ritem['item_date']))
 	{
