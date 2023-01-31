@@ -33,6 +33,10 @@
 				<td>{PRJEDIT_FORM_PARSER}</td>
 			</tr>
 			<tr>
+				<td>{PHP.L.Date}:</td>
+				<td>{PRJEDIT_FORM_DATE}</td>
+			</tr>
+			<tr>
 				<td class="top">{PHP.L.Text}:</td>
 				<td>{PRJEDIT_FORM_TEXT}</td>
 			</tr>
