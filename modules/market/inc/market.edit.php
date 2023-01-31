@@ -257,7 +257,7 @@ $t->assign(array(
 	'PRDEDIT_FORM_METATITLE' => cot_inputbox('text', 'rmetatitle', $item['item_metatitle'], array('size' => '64', 'maxlength' => '255')),
 	'PRDEDIT_FORM_METADESC' => cot_textarea('rmetadesc', $item['item_metadesc'], 2, 64, array('maxlength' => '255')),
 	"PRDEDIT_FORM_ALIAS" => cot_inputbox('text', 'ralias', $item['item_alias'], array('size' => '32', 'maxlength' => '255')),
-	'PRJEDIT_FORM_DATE' => cot_selectbox_date($item['item_date'], 'long', 'rdate').' '.cot::$usr['timetext'], // строка добавлена для редактирования даты публикации
+	'PRDEDIT_FORM_DATE' => cot_selectbox_date($item['item_date'], 'long', 'rdate').' '.cot::$usr['timetext'], // строка добавлена для редактирования даты публикации
 	"PRDEDIT_FORM_TEXT" => cot_textarea('rtext', $item['item_text'], 10, 60, 'id="formtext"', ($prdeditor && $prdeditor != 'disable') ? 'input_textarea_'.$prdeditor : ''),
 	"PRDEDIT_FORM_COST" => cot_inputbox('text', 'rcost', $item['item_cost'], 'size="10"'),
 	"PRDEDIT_FORM_STATE" => $item['item_state'],
