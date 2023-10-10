@@ -51,7 +51,7 @@ _____
 # Сборка стартовая с базовым шаблоном, а следовательно интеграция в него плагинов и модулей производится под себя самостоятельно или под заказ #
 _____
 # Демонстрация <a href="http://masterscity.abuyfile.com/" target="_blank" title="Freelance MarketPlace - демонстрация готового сайта фриланс биржи"><strong>готового сайта, который можно купить и запустить у себя за 15 минут</strong></a> #
-<a href="https://masterscity.abuyfile.com/" target="_blank" rel="nofollow noopener"><img src="https://cp.beget.com/promo_data/static/static320x50_2.png" alt="" border="0" /></a>
+<a href="https://masterscity.abuyfile.com/" target="_blank" rel="nofollow noopener"><img src="https://raw.githubusercontent.com/webitproff/freelance-scripts/master/masterscity.abuyfile.com.png" alt="" border="0" /></a>
 _____
 # <h4>Если, у Вас еще нет своего хостинга, - рекомендую хостинг без головной боли <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">beget-хостинг</a> 
 Тариф "Старт" - оптимально и даже очень не дорого
