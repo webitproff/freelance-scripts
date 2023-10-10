@@ -1,1 +1,0 @@
-ALTER TABLE `cot_mavatars` ADD COLUMN `mav_sessid` varchar(255) collate utf8_unicode_ci;

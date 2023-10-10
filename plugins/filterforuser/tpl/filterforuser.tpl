@@ -1,3 +1,0 @@
-<!-- BEGIN: MAIN -->
-
-<!-- END: MAIN -->
