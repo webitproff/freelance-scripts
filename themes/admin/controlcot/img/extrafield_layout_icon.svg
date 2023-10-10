@@ -1,0 +1,16 @@
+<?xml version="1.0" ?><svg height="48" id="website" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><defs><style>
+      .vi-primary {
+        fill: #FF6E6E;
+      }
+
+      .vi-primary, .vi-accent {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 0;
+      }
+
+      .vi-accent {
+        fill: #0C0058;
+        fill-rule: evenodd;
+      }
+    </style></defs><rect class="vi-primary" height="28" width="34" x="7" y="10"/><path class="vi-accent" d="M7,10H41v3H7V10Zm4,7H37v5H11V17Zm0,9h8v8H11V26Zm11,0H37v3H22V26Zm0,5h8v3H22V31Z"/></svg>
