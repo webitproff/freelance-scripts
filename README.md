@@ -51,12 +51,13 @@ _____
 # Сборка стартовая с базовым шаблоном, а следовательно интеграция в него плагинов и модулей производится под себя самостоятельно или под заказ #
 _____
 # Демонстрация <a href="http://masterscity.abuyfile.com/" target="_blank" title="Freelance MarketPlace - демонстрация готового сайта фриланс биржи"><strong>готового сайта, который можно купить и запустить у себя за 15 минут</strong></a> #
+<a href="https://masterscity.abuyfile.com/" target="_blank" rel="nofollow noopener"><img src="https://cp.beget.com/promo_data/static/static468x60_3.png" alt="static468x60_3.png" border="0" /></a>
 _____
 # <h4>Если, у Вас еще нет своего хостинга, - рекомендую хостинг без головной боли <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">beget-хостинг</a> 
 Тариф "Старт" - оптимально и даже очень не дорого
 по ссылке <a href="https://beget.com/order/start?id=1479352" target="_blank" rel="noopener">https://beget.com/order/start?id=1479352</a>
 или клик по картинке</h4><br>
-<a href="https://beget.com/p1479352/order/start" target="_blank" rel="nofollow noopener"><img src="https://cp.beget.com/promo_data/static/static468x60_3.png" alt="static468x60_3.png" border="0" /></a>
+<a href="https://beget.com/p1479352/order/start" target="_blank" rel="nofollow noopener"><img src="https://raw.githubusercontent.com/webitproff/freelance-scripts/master/masterscity.abuyfile.com.png" alt="" border="0" /></a>
 
 к тому же, тестирование на месяц бесплатно + сервисный домен - (свой домен прикрепить и протестирвать можно даже на бесплатном тестовом периоде хостинга)
 
