@@ -50,7 +50,7 @@ function cot_getcountprjofuser($userid)
 {
 	global $sys, $db, $db_projects;
 
-	list($year, $month, $day) = explode('-', @date('Y-m-d', $sys['now_offset']));
+	list($year, $month, $day) = explode('-', @date('Y-m-d', $sys['now']));
 	$currentday = cot_mktime(0, 0, 0, $month, $day, $year);
 
 	$count = $db->query("SELECT COUNT(*) FROM $db_projects WHERE item_userid=" . $userid . " AND item_date<" . $sys['now'] . " AND item_date>" . $currentday . "")->fetchColumn();
@@ -62,13 +62,11 @@ function cot_getcountoffersofuser($userid)
 {
 	global $sys, $db, $db_projects_offers;
 
-	list($year, $month, $day) = explode('-', @date('Y-m-d', $sys['now_offset']));
+	list($year, $month, $day) = explode('-', @date('Y-m-d', $sys['now']));
 	$currentday = cot_mktime(0, 0, 0, $month, $day, $year);
 
-	$sql = $db->query("SELECT COUNT(*) as count FROM $db_projects_offers WHERE offer_userid=" . $userid . " AND offer_date<" . $sys['now_offset'] . " AND offer_date>" . $currentday . "");
+	$sql = $db->query("SELECT COUNT(*) as count FROM $db_projects_offers WHERE offer_userid=" . $userid . " AND offer_date<" . $sys['now'] . " AND offer_date>" . $currentday . "");
 	$count = $sql->fetchColumn();
 
 	return $count;
 }
-
-?>
