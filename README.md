@@ -6,7 +6,7 @@ _____
 ## v3.0.24 под PHP v7.4 на Cotonti Siena v0.9.24 от 10.10.2023 года ##
 ## Script Freelance MarketPlace (SFM) на Cotonti Siena ##
 ### Все обновления, новости и ваши вопросы по сборке в телеграмм [Freelance MarketPlace](https://t.me/script_freelance_marketplace) ###
-### Больше бесплатных расширений и шаблонов для фриланс биржи [посмотреть и скачать бесплатно](https://github.com/webitproff/COT_EXT_base_free) ###
+### Больше бесплатных расширений и шаблонов для фриланс биржи [посмотреть и скачать бесплатно](https://docs.google.com/spreadsheets/d/1f8USw89ia79RkIHBIAaJiZhZrLwELQJtAeTZscQgsBk/) ###
 ### Версия этой сборки совместима с PHP 7.1 - 7.4 ###
 **Внимание** PHP 7.4 потолок именно для этой сборки! но этого предостаточно.
 
