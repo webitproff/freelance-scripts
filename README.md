@@ -64,20 +64,20 @@ _____
 
 к тому же, тестирование на месяц бесплатно + сервисный домен - (свой домен прикрепить и протестирвать можно даже на бесплатном тестовом периоде хостинга)
 
-<h1>#SUPPORT</h1>
+#SUPPORT
 # <strong>Помощь в установке сборки биржи услуг на Cotonti Siena:</strong> #
 * документация http://freelance-script.abuyfile.com/<br>
 * видообзоры https://www.youtube.com/playlist?list=PLLJqscgzN-F4PmZnbYDsXUYfbT4rxC9Dz<br>
-* <h3><a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам: </a></h3> <br>
-* Email: webitproff@gmail.com <br>
-* телеграм <a href="https://t.me/webitproff" target="_blank" rel="noopener">https://t.me/webitproff</a> <br>
-* <a href="https://abuyfile.com/users/Webitproff" target="_blank" rel="noopener">https://abuyfile.com/users/Webitproff</a> - другие мои контакты и работы <br>
+* <h3><a href="https://abuyfile.com/users/webitproff" target="_blank" rel="noopener">персональная поддержка, консультации, доработки данной сборки биржи услуг на Cotonti или любые другие услуги индивидуального характера платные, которые заказать можно по контактам: </a></h3> <br>
+<br>
+* <a href="https://t.me/webitproff" target="_blank" rel="noopener">телеграм</a> <br>
+* <a href="https://abuyfile.com/users/webitproff" target="_blank" rel="noopener">Моя «PHP»</a> <br>
 _____
 <h1>Подробнее</h1>
-<p><a href="http://freelance-script.abuyfile.com/category/plugins/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Плагины для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
-<p><a href="http://freelance-script.abuyfile.com/category/modules/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Модули для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
-<p><a href="http://freelance-script.abuyfile.com/category/templates/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Шаблоны для «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
-<p><a href="http://freelance-script.abuyfile.com/category/builds-freelance-script/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">готовые сайты на «<span style="color: #ff6600;"><strong>Сборка фриланс-биржа</strong></span>»</a></p>
+<p><a href="http://freelance-script.abuyfile.com/category/plugins/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Плагины для «<span style="color: #ff6600;"><strong>Freelance MarketPlace</strong></span>»</a></p>
+<p><a href="http://freelance-script.abuyfile.com/category/modules/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Модули для «<span style="color: #ff6600;"><strong>Freelance MarketPlace</strong></span>»</a></p>
+<p><a href="http://freelance-script.abuyfile.com/category/templates/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">Шаблоны для «<span style="color: #ff6600;"><strong>Freelance MarketPlace</strong></span>»</a></p>
+<p><a href="http://freelance-script.abuyfile.com/category/builds-freelance-script/" title="Сайт документации и руководство по сборке биржи фриланса и маркеплейса услуг на движке Cotonti Siena" target="_blank" rel="noopener noreferrer">готовые сайты на «<span style="color: #ff6600;"><strong>Freelance MarketPlace</strong></span>»</a></p>
 
 Версия сборки: v3.0.20
 Сборка фриланс-биржи на базе Cotonti Siena. С помощью данной сборки можно организовать любую биржу по поиску исполнителей на различные работы. Функционал биржи предоставляет гибкие возможности для эксплуатации и дальнейшей разработки.
