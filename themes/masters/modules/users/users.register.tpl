@@ -60,8 +60,8 @@
 					<div class="col-md-8">{USERS_REGISTER_PASSWORDREPEAT}</div>
 				</div>
 				<div class="form-group row">
-					<label class="form-control-label col-md-4">{USERS_REGISTER_VERIFYIMG}</label>
-					<div class="col-md-8">{USERS_REGISTER_VERIFYINPUT}</div>
+					<label class="form-control-label col-md-4">{USERS_REGISTER_VERIFY_IMG}</label>
+					<div class="col-md-8">{USERS_REGISTER_VERIFY_INPUT}</div>
 				</div>
 				<!-- IF {PHP.cot_plugins_active.useragreement} -->
 				<div class="form-group text-xs-center">
