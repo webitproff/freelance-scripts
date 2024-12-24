@@ -13,7 +13,9 @@ _____
 Copyright 2012 - 2024
 
 ### [Коммерческая версия](https://abuyfile.com/market/siteready/marketplace-script) ###
+### [Поддержка и форум по фриланс-бирже](https://abuyfile.com/ru/forums/marketplace-script) ###
 ### [Работающий сайт как пример](https://abuyfile.com/) ###
+
 
 ### Подготовка к установке ###
 
